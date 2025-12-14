@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-04-28
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I graduated with a master's degree (high distinction) from the Technical University of Munich. My master's thesis is available [here](assets/pdf/masters_thesis.pdf).
